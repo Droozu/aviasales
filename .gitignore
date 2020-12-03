@@ -1,0 +1,7 @@
+/node_modules/
+.gitignore
+.idea/.gitignore
+.idea/aviasales.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
